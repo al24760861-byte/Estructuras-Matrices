@@ -1,4 +1,5 @@
-#include Dsa
-decltypeasd
+#include "stdio.h"
+void main(){
 
-s
+    return
+}
