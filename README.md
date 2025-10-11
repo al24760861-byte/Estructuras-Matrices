@@ -68,8 +68,9 @@ El manejo de matrices en C representa un paso crucial en la programación estruc
 capturas de ejecución
 Ejercico 1-2
 
+<img width="586" height="307" alt="codigo tarea" src="https://github.com/user-attachments/assets/afbdd15d-a206-4bea-961d-28fe855ba0b0" />
 
-Ejercicio 3
+
 
 Ejercicio 4
 
